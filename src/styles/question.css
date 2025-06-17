@@ -1,0 +1,39 @@
+
+/* Question Type Selector Styles */
+.question-option {
+  display: flex;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border-radius: 0.375rem;
+  border: 1px solid #e2e8f0;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.question-option:hover {
+  background-color: #f8fafc;
+  border-color: #cbd5e1;
+}
+
+.question-option-selected {
+  background-color: rgba(109, 40, 217, 0.1);
+  border-color: #6d28d9;
+}
+
+/* Animation for selection */
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(109, 40, 217, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(109, 40, 217, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(109, 40, 217, 0);
+  }
+}
+
+.question-option-selected {
+  animation: pulse 1.5s infinite;
+}

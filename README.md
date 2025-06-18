@@ -12,6 +12,7 @@ Since the project isn't deployed yet, you can [watch the demo on Google Drive](h
 ---
 ![](https://github.com/anasabdelhakim/Quiz-app/blob/main/public/quizmastro-app.png?raw=true)
 
+
 ## ✨ Features
 
 ### 🔐 Authentication
@@ -72,6 +73,7 @@ npm run dev
   ├── App.tsx             # Root component with routing
   └── main.tsx            # Entry point
 ```
+![](https://github.com/anasabdelhakim/Quiz-app/blob/main/public/arch.jpeg?raw=true)
 
 ---
 

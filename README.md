@@ -10,6 +10,7 @@
 Since the project isn't deployed yet, you can [watch the demo on Google Drive](https://drive.google.com/file/d/12XjCk2qrLCmSchE_D6gEJ2PB43tiK2Dg/view?usp=drive_link).
 
 ---
+![](https://github.com/anasabdelhakim/Quiz-app/blob/main/public/quizmastro-app.png?raw=true)
 
 ## ✨ Features
 

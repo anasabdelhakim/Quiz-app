@@ -73,7 +73,7 @@ npm run dev
   ├── App.tsx             # Root component with routing
   └── main.tsx            # Entry point
 ```
-![](https://github.com/anasabdelhakim/Quiz-app/blob/main/public/arch.jpeg?raw=true)
+![](https://github.com/anasabdelhakim/Quiz-app/blob/main/public/Picture1.png?raw=true)
 
 ---
 
